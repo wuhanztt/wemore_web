@@ -1,0 +1,286 @@
+2020-03-21 20:59:05,618 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="1d0457d6-75bc-475d-89d1-cfa1bcb0bc8c")>
+2020-03-21 20:59:05,618 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:123456
+2020-03-21 20:59:05,618 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 20:59:05,618 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 20:59:05,624 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 20:59:05,630 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 20:59:05,671 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 20:59:05,671 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 20:59:05,676 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 20:59:05,682 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 20:59:05,709 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 20:59:05,709 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 20:59:05,941 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', "[class='one_head_span']")，默认时间:2
+2020-03-21 20:59:08,375 INFO [root] [base.py (base_element_is_exist:55] - [base]:('css selector', "[class='one_head_span']")元素查找成功，存在当前页面
+2020-03-21 20:59:21,611 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="c5bec2f9-b319-404d-984b-520c55eb96b9")>
+2020-03-21 20:59:21,611 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:,密码:123456
+2020-03-21 20:59:21,611 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：操作
+2020-03-21 20:59:21,611 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 20:59:21,620 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 20:59:21,624 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 20:59:21,634 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 20:59:21,635 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 20:59:21,645 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 20:59:21,649 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 20:59:21,705 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 20:59:21,706 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 20:59:21,940 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 20:59:21,940 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 20:59:33,926 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="9ca59a39-dbf3-4f8a-bb66-bde7f5eb3793")>
+2020-03-21 20:59:33,926 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:
+2020-03-21 20:59:33,926 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 20:59:33,927 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 20:59:33,931 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 20:59:33,937 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 20:59:33,983 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：操作
+2020-03-21 20:59:33,983 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 20:59:33,992 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 20:59:33,996 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 20:59:34,017 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 20:59:34,017 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 20:59:34,256 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 20:59:34,256 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 20:59:45,446 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="b6e83450-ae00-41f8-a2ed-55dd46c45176")>
+2020-03-21 20:59:45,446 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com1,密码:123456
+2020-03-21 20:59:45,446 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com1操作
+2020-03-21 20:59:45,446 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 20:59:45,502 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 20:59:45,518 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 20:59:45,596 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 20:59:45,596 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 20:59:45,600 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 20:59:45,604 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 20:59:45,625 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 20:59:45,625 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 20:59:45,857 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 20:59:45,858 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 20:59:58,187 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="73044907-15b0-48c3-bac9-eb45a4604e23")>
+2020-03-21 20:59:58,187 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:1234567
+2020-03-21 20:59:58,187 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 20:59:58,187 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 20:59:58,192 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 20:59:58,196 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 20:59:58,247 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：1234567操作
+2020-03-21 20:59:58,248 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 20:59:58,280 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 20:59:58,300 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 20:59:58,333 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 20:59:58,334 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 20:59:58,565 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 20:59:58,565 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:00:10,858 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="4e8bc52a-2fbf-4490-b16b-5ea181756ed3")>
+2020-03-21 21:00:10,858 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt1@qq.com,密码:123456
+2020-03-21 21:00:10,858 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt1@qq.com操作
+2020-03-21 21:00:10,859 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:00:10,866 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:00:10,876 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:00:10,934 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:00:10,934 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:00:10,946 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:00:10,950 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:00:10,976 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:00:10,976 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:00:11,207 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:00:11,207 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:02:19,558 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="e2b23eb9-2e37-4628-9130-46e205b32cf8")>
+2020-03-21 21:02:19,559 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:123456
+2020-03-21 21:02:19,559 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:02:19,559 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:02:19,564 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:02:19,571 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:02:19,624 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:02:19,624 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:02:19,634 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:02:19,648 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:02:19,666 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:02:19,666 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:02:19,902 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', "[class='one_head_span']")，默认时间:2
+2020-03-21 21:02:23,272 INFO [root] [base.py (base_element_is_exist:55] - [base]:('css selector', "[class='one_head_span']")元素查找成功，存在当前页面
+2020-03-21 21:02:34,231 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="1db0a016-3be7-4f60-87e5-cff0f9640beb")>
+2020-03-21 21:02:34,232 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:,密码:123456
+2020-03-21 21:02:34,232 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：操作
+2020-03-21 21:02:34,232 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:02:34,237 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:02:34,243 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:02:34,251 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:02:34,251 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:02:34,255 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:02:34,260 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:02:34,291 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:02:34,292 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:02:34,791 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:02:34,791 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:02:46,274 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="a211f851-9674-4437-b8e6-fa8f5452952c")>
+2020-03-21 21:02:46,274 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:
+2020-03-21 21:02:46,274 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:02:46,274 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:02:46,288 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:02:46,293 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:02:46,341 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：操作
+2020-03-21 21:02:46,341 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:02:46,351 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:02:46,354 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:02:46,366 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:02:46,367 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:02:46,600 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:02:46,600 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:02:58,021 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="52300887-f020-4ff3-8b17-5ffd24dfeed2")>
+2020-03-21 21:02:58,021 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com1,密码:123456
+2020-03-21 21:02:58,021 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com1操作
+2020-03-21 21:02:58,022 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:02:58,048 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:02:58,065 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:02:58,089 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:02:58,089 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:02:58,096 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:02:58,100 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:02:58,116 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:02:58,116 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:02:58,601 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:02:58,601 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:03:10,042 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="c7dee9bb-83d3-443e-9250-e151a5ba57c4")>
+2020-03-21 21:03:10,042 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:1234567
+2020-03-21 21:03:10,042 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:03:10,042 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:03:10,048 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:03:10,052 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:03:10,185 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：1234567操作
+2020-03-21 21:03:10,185 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:03:10,200 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:03:10,204 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:03:10,255 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:03:10,255 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:03:10,495 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:03:10,496 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:03:24,521 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="a6466dda-353d-4fa4-89b1-6e6cdd6b006e")>
+2020-03-21 21:03:24,521 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt1@qq.com,密码:123456
+2020-03-21 21:03:24,522 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt1@qq.com操作
+2020-03-21 21:03:24,522 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:03:24,531 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:03:24,593 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:03:24,644 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:03:24,644 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:03:24,649 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:03:24,652 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:03:24,682 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:03:24,682 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:03:24,916 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:03:24,917 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:07:32,129 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="a046b581-dfda-4967-9967-5db4e18f3e22")>
+2020-03-21 21:07:32,129 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:123456
+2020-03-21 21:07:32,129 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:07:32,129 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:07:32,135 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:07:32,143 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:07:32,184 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:07:32,185 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:07:32,192 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:07:32,196 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:07:32,223 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:07:32,223 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:07:32,461 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', "[class='one_head_span']")，默认时间:2
+2020-03-21 21:07:35,268 INFO [root] [base.py (base_element_is_exist:55] - [base]:('css selector', "[class='one_head_span']")元素查找成功，存在当前页面
+2020-03-21 21:07:46,404 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="5ee64f33-bdae-427a-a8b6-8882c154bf91")>
+2020-03-21 21:07:46,404 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:,密码:123456
+2020-03-21 21:07:46,404 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：操作
+2020-03-21 21:07:46,404 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:07:46,414 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:07:46,472 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:07:46,498 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:07:46,498 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:07:46,503 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:07:46,507 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:07:46,562 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:07:46,562 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:07:46,805 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:07:46,805 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:07:57,444 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="7125675a-fa4b-4323-8b06-a6efa1cd5b55")>
+2020-03-21 21:07:57,445 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:
+2020-03-21 21:07:57,445 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:07:57,445 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:07:57,454 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:07:57,460 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:07:57,523 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：操作
+2020-03-21 21:07:57,523 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:07:57,533 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:07:57,542 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:07:57,555 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:07:57,555 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:07:57,791 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:07:57,792 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:08:08,898 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="e105b181-1f41-4de2-bad1-7513b24e8763")>
+2020-03-21 21:08:08,898 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com1,密码:123456
+2020-03-21 21:08:08,899 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com1操作
+2020-03-21 21:08:08,899 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:08:08,915 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:08:08,953 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:08:08,999 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:08:09,000 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:08:09,011 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:08:09,021 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:08:09,056 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:08:09,056 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:08:09,293 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:08:09,293 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:08:21,362 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="b9fa71f4-d8ea-4e0f-b03c-c734148c5f84")>
+2020-03-21 21:08:21,363 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt@qq.com,密码:1234567
+2020-03-21 21:08:21,363 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:08:21,363 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:08:21,379 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:08:21,424 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:08:21,456 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：1234567操作
+2020-03-21 21:08:21,457 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:08:21,470 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:08:21,475 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:08:21,501 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:08:21,501 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:08:21,735 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:08:21,735 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:08:33,571 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="4aefd378-6427-44c8-80b5-11e8ca55b014")>
+2020-03-21 21:08:33,572 INFO [root] [page_login.py (page_login:56] - [page_login]正在执行登录操作，用户名:ztt1@qq.com,密码:123456
+2020-03-21 21:08:33,573 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt1@qq.com操作
+2020-03-21 21:08:33,573 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:08:33,589 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:08:33,600 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:08:33,739 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:08:33,739 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:08:33,752 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:08:33,755 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:08:33,801 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:08:33,801 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:08:34,049 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', '.ivu-message-notice-content-text')元素实行获取文本操作
+2020-03-21 21:08:34,049 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', '.ivu-message-notice-content-text')，默认时间:30
+2020-03-21 21:08:45,974 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="a3f3f565-9719-4ba9-bbc4-007e134e8403")>
+2020-03-21 21:08:45,974 INFO [root] [base.py (__init__:14] - [base]:正在获取初始化driver对象:<selenium.webdriver.firefox.webdriver.WebDriver (session="a3f3f565-9719-4ba9-bbc4-007e134e8403")>
+2020-03-21 21:08:45,974 INFO [root] [page_login.py (page_login_success:66] - [page_login]正在执行组合登录业务方法，给登录成功后的admin平台其他操作依赖登录使用，用户名:ztt@qq.com,密码:123456
+2020-03-21 21:08:45,974 INFO [root] [page_login.py (page_input_username:17] - [page_login]对：('xpath', "//*[@type='text']")元素输入用户名：ztt@qq.com操作
+2020-03-21 21:08:45,974 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='text']")，默认时间:30
+2020-03-21 21:08:45,980 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='text']")元素实行清空操作
+2020-03-21 21:08:46,054 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='text']")元素实行输入操作
+2020-03-21 21:08:46,104 INFO [root] [page_login.py (page_input_password:22] - [page_login]对：('xpath', "//*[@type='password']")元素输入密码：123456操作
+2020-03-21 21:08:46,104 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='password']")，默认时间:30
+2020-03-21 21:08:46,117 INFO [root] [base.py (base_input:35] - [base]:正在对:('xpath', "//*[@type='password']")元素实行清空操作
+2020-03-21 21:08:46,121 INFO [root] [base.py (base_input:38] - [base]:正在对:('xpath', "//*[@type='password']")元素实行输入操作
+2020-03-21 21:08:46,150 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@type='button']")元素实行点击操作
+2020-03-21 21:08:46,150 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@type='button']")，默认时间:30
+2020-03-21 21:08:46,385 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'li.template-submenu:nth-child(2) > div:nth-child(1) > i:nth-child(3)')，默认时间:30
+2020-03-21 21:08:52,388 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'div.search_head:nth-child(3) > div:nth-child(1) > div:nth-child(2) > input:nth-child(3)')，默认时间:30
+2020-03-21 21:08:52,401 INFO [root] [base.py (base_input:35] - [base]:正在对:('css selector', 'div.search_head:nth-child(3) > div:nth-child(1) > div:nth-child(2) > input:nth-child(3)')元素实行清空操作
+2020-03-21 21:08:52,405 INFO [root] [base.py (base_input:38] - [base]:正在对:('css selector', 'div.search_head:nth-child(3) > div:nth-child(1) > div:nth-child(2) > input:nth-child(3)')元素实行输入操作
+2020-03-21 21:08:55,515 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'div.search_head:nth-child(3) > div:nth-child(1) > div:nth-child(2) > input:nth-child(3)')，默认时间:30
+2020-03-21 21:08:58,675 INFO [root] [base.py (base_click:27] - [base]:正在对:('css selector', "[type='checkbox']")元素实行点击操作
+2020-03-21 21:08:58,675 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', "[type='checkbox']")，默认时间:30
+2020-03-21 21:09:01,935 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[text()='COD Setting']")元素实行点击操作
+2020-03-21 21:09:01,935 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[text()='COD Setting']")，默认时间:30
+2020-03-21 21:09:05,267 INFO [root] [base.py (base_click:27] - [base]:正在对:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)')元素实行点击操作
+2020-03-21 21:09:05,267 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1) > form:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > span:nth-child(1)')，默认时间:30
+2020-03-21 21:09:08,487 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'body > div:nth-child(14) > div.ivu-modal-wrap.vertical-center-modal > div > div > div.ivu-modal-body > div > div:nth-child(1) > form > div > div > div > div.ivu-select-dropdown > ul.ivu-select-dropdown-list > li:nth-child(1)')，默认时间:30
+2020-03-21 21:09:11,815 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > input:nth-child(2)')，默认时间:30
+2020-03-21 21:09:11,818 INFO [root] [base.py (base_input:35] - [base]:正在对:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > input:nth-child(2)')元素实行清空操作
+2020-03-21 21:09:11,821 INFO [root] [base.py (base_input:38] - [base]:正在对:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > input:nth-child(2)')元素实行输入操作
+2020-03-21 21:09:14,909 INFO [root] [base.py (base_click:27] - [base]:正在对:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > button:nth-child(1)')元素实行点击操作
+2020-03-21 21:09:14,909 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'div.v-transfer-dom:nth-child(14) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(4) > div:nth-child(1) > button:nth-child(1)')，默认时间:30
+2020-03-21 21:09:18,131 INFO [root] [base.py (base_click:27] - [base]:正在对:('xpath', "//*[@id='product_scroll']/div/div[2]/ul/li[11]/p")元素实行点击操作
+2020-03-21 21:09:18,131 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('xpath', "//*[@id='product_scroll']/div/div[2]/ul/li[11]/p")，默认时间:30
+2020-03-21 21:09:21,350 INFO [root] [base.py (base_get_text:43] - [base]:正在对:('css selector', 'div.basic:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > p:nth-child(1)')元素实行获取文本操作
+2020-03-21 21:09:21,351 INFO [root] [base.py (base_find_element:19] - [base]:正在定位元素:('css selector', 'div.basic:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > p:nth-child(1)')，默认时间:30

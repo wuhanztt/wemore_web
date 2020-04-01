@@ -1,0 +1,7 @@
+username, password, expect_result, positive
+ztt@qq.com,123456,HOME,ture
+,123456,Fill in the wrong!,false
+ztt@qq.com,,Fill in the wrong!,false
+ztt@qq.com1,123456,No user match the email,false
+ztt@qq.com,1234567,Name or password wrong,false
+ztt1@qq.com,123456,You do not have permission for the time being,false

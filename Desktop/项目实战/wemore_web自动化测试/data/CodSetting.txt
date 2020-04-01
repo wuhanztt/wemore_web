@@ -1,0 +1,2 @@
+catalog_name, money, expect_result
+2.14_1,40,None
