@@ -9,3 +9,4 @@ def read_txt(filename):
 #     for data in read_txt("login.txt"):
 #         arrange.append(tuple(data.strip().split(",")))
 #     print(arrange[1:])
+#     你好
